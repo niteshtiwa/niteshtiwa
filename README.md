@@ -90,7 +90,7 @@
 <br>
 
 
-[![An image of @subhampreetmohanty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhampreetmohanty)](https://holopin.io/@subhampreetmohanty)
+[![An image of @nitesh9893's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitesh9893)](https://holopin.io/@nitesh9893)
 
 <!-- [![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet) -->
 
