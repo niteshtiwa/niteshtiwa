@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi,%20Everyone!🕹️&fontAlignY=35&animation=fadeIn" alt="Animated Greeting"/>
 </p>
 
-<h1 align="center">I'm Akshat Sharma from IIT Indore</h1>
+<h1 align="center">I'm Nitesh K. Tiwari from Jec Jabalpur</h1>
 
 <p align="center">
   <a href="https://linktr.ee/akshat.iiti">
@@ -11,14 +11,14 @@
   <a href="mailto:akshatgopal70@gmail.com">
     <img src="https://img.shields.io/badge/Email-Here-c14438?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/akshat-sharma-7914a7250/" target="_blank">
+  <a href="https://linkedin.com/in/nitesh-kumar-tiwari-0aa165334" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshatsharma5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=niteshtiwa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -34,8 +34,8 @@
 - 🌱 Passionate about building high-quality, interactive web applications.
 - 💻 Specializing in **ReactJS**, **C++**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, **MERN Stack, NextJS, Bootstrap, Tailwind CSS, NodeJS, ExpressJS, MongoDB, StripeJS, RESTful APIs, JWT, MySQL, Docker, AWS, Framer Motion, NextUI, RadixUI, Python**
 - 📚 Proficient in **Object Oriented Programming**, **DBMS**, and modern development practices.
-- 👨‍💻 Portfolio: [Visit here](https://linktr.ee/akshat.iiti)
-- 📫 Email: **akshatgopal70@gmail.com**
+- 👨‍💻 Portfolio: [Visit here]()
+- 📫 Email: **niteshtiwari4733@gmail.com**
 
 
 
