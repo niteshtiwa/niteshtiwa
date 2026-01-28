@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm NITESH KUMAR TIWARI</h1>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<!-- Workspace GIF -->
-<img src="https://raw.githubusercontent.com/niteshtiwa/your-repo-name/main/assets/workspace.gif" width="400" alt="Workspace GIF"/>
 
+<h1 align="center">Hello,  I'm Nitesh K. Tiwari 🦊 !</h1>
+
+<p align="center">
+ 
+  <a href="mailto:niteshtiwari4733@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Here-c14438?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nitesh-kumar-tiwari-0aa165334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</p>
 <h3 align="center">Aspiring Data Engineer | AI & DS Undergraduate</h3>
 
 - 🌱 I’m currently learning **Advanced SQL • Data Engineering Basics • ETL Concepts**
 - 💬 Ask me about **backend development, SQL & database design, Python for backend logic, and system fundamentals**
-- 📫 How to reach me: **niteshtiwari4733@gmail.com**
+- 📫  Open to collaborating on Artificial Intelligence, software development, and coding-based projects.
 - ⚡ Fun fact: **I treat bugs like puzzles — the harder they are, the more fun it gets**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,9 +38,7 @@
   <a href="https://www.geeksforgeeks.org/profile/niteshtiw40vu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
-  <a href="https://www.topcoder.com/members/485881" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="40" />
-  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,7 +69,34 @@
   </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a> 
+  </a>
+ 
+
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshtiwa&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=niteshtiwa&show_icons=true&theme=radical" width="45%" align="right" >
+
+
+
+<br>
+
+<div align="center">
+
+
+</div>
+<br>
+<br>
+
+
+[![An image of @subhampreetmohanty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhampreetmohanty)](https://holopin.io/@subhampreetmohanty)
+
+<!-- [![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet) -->
+
+<br>
+
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
