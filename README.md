@@ -1,18 +1,18 @@
 <!-- TOP BANNER -->
-<img src="https://raw.githubusercontent.com/rudrabarad/Gifs/master/coding.gif" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/master/coding.gif" alt="Banner" width="100%" />
+</p>
 
 <!-- RIGHT SIDE GIF -->
-<img align="right" alt="Coding" width="320"
-src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/programming.gif"/>
+<img align="right" alt="Coding GIF" width="300"
+src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/programming.gif" />
 
 <h1 align="center">Hi 👋, I'm Nitesh Kumar Tiwari</h1>
 <h3 align="center">Aspiring Data Engineer | AI & DS Undergraduate</h3>
 
-- 🌱 I’m currently learning **Advanced SQL, Data Engineering Basics, and ETL Concepts**
-
-- 💬 Ask me about **Backend development, SQL & database design, Python for backend logic, and system fundamentals**
-
-- 📫 How to reach me: **niteshtiwari4733@gmail.com**
+- 🌱 I’m currently learning **Advanced SQL, Data Engineering, ETL**
+- 💬 Ask me about **Backend, SQL, Python, Databases**
+- 📫 Reach me at **niteshtiwari4733@gmail.com**
 
 - ⚡ Fun fact: **I treat bugs like puzzles — the harder they are, the more fun it gets**
 
