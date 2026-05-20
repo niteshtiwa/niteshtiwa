@@ -14,7 +14,10 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
-<h3 align="center">Aspiring Data Engineer | AI & DS Undergraduate</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Self-taught+Python+developer+from+India;Building+AI+agents%2C+RAG+apps+and+automation+systems;Exploring+ML%2C+deep+learning+and+LLM-powered+tools;Solving+DSA+problems+and+learning+every+day" alt="Typing introduction" />
+</div>
 
 - 🌱 I’m currently learning **Advanced SQL • Data Engineering Basics • ETL Concepts**
 - 💬 Ask me about **backend development, SQL & database design, Python for backend logic, and system fundamentals**
@@ -23,38 +26,28 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a>
- 
+<h3 align="left">Languages and Tools:</h3><div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,selenium" alt="AI data and automation technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,django,go,flask,c,cpp" alt="Core development technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,mysql,postgres,mongodb" alt="Developer tools and databases" />
+</div>
 
-</p>
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-0F172A?style=flat-square&logo=databricks&logoColor=white" alt="Vector databases" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</div>
+
+
 
 ## 🏆 Github Status
 <p align="center">
@@ -94,6 +87,36 @@
   </a>
  
 </p>
+<div align="center">
+
+  <a href="https://leetcode.com/u/_niteshtiwari4733/">
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif"
+    alt="50 Days Badge" width="120" />
+  </a>
+
+  <a href="https://leetcode.com/u/_niteshtiwari4733/">
+    <img src="https://assets.leetcode.com/static_assets/others/100.gif"
+    alt="100 Days Badge" width="120" />
+  </a>
+
+</div>
+
+<details align="center">
+  <summary><strong>More Coding Practice Badges</strong></summary>
+
+  <br />
+
+  <a href="https://leetcode.com/u/_niteshtiwari4733/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/3.gif"
+    alt="March Badge" width="95" />
+  </a>
+
+  <a href="https://leetcode.com/u/_niteshtiwari4733/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/4.gif"
+    alt="April Badge" width="95" />
+  </a>
+
+</details>
 
 ## 🏅 Holopin Badges
 
