@@ -91,7 +91,7 @@
 <br>
 
 
-[![An image of @nitesh9893's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitesh9893)](https://holopin.io/@nitesh9893)
+
 [![An image of @niteshtiwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niteshtiwa)](https://holopin.io/@niteshtiwa)
 <!-- [![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet) -->
 
