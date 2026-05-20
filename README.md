@@ -21,25 +21,7 @@
 - 📫  Open to collaborating on Artificial Intelligence, software development, and coding-based projects.
 - ⚡ Fun fact: **I treat bugs like puzzles — the harder they are, the more fun it gets**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nitesh-kumar-tiwari-0aa165334" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/cry_road_85" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/niteshkumar772485" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/_niteshtiwari4733" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/niteshtiw40vu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-  
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -75,27 +57,54 @@
 </p>
 
 ## 🏆 Github Status
-
-<img  src="https://github-readme-stats.vercel.app/api?username=niteshtiwa&show_icons=true&theme=radical" width="45%" align="right" >
-
+<p align="center">
 
 
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshtiwa&theme=radical" width="47%" />
 
-<div align="center">
-
-
-</div>
-<br>
-<br>
+</p>
 
 
+## 🚀 Competitive Programming
 
-[![An image of @niteshtiwa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niteshtiwa)](https://holopin.io/@niteshtiwa)
-<!-- [![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet) -->
+<p align="center">
 
-<br>
+<a href="https://www.geeksforgeeks.org/user/niteshtiw40vu/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://leetcode.com/_niteshtiwari4733/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/niteshkumar772485">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+<a href="https://www.hackerrank.com/profile/niteshtiwari4733">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/cry_road_85">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
+</a>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/niteshtiw40vu/">
+    <img src="badges/gfg_badge.png" width="220"/>
+  </a>
+ 
+</p>
+
+## 🏅 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@niteshtiwa">
+    <img src="https://holopin.me/niteshtiwa" alt="Holopin badges"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
